@@ -1,0 +1,327 @@
+﻿customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.4
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Wed Mar 25 21:14:22 2026"
+  rime_version: 1.13.1
+
+patch:
+  show_notifications: true  # 是否显示输入法状态通知，改为false可关闭
+  show_notifications_time: 100  # 输入法状态通知显示时间，单位毫秒，默认1000ms（1秒），改为100可缩短显示时间
+
+  style:
+    horizontal: true  # 横排显示
+    inline_preedit: true  # 嵌入编码
+    preedit_type: composition  # 嵌入类。有4个选项可设：input 嵌入输入码 | composition 嵌入编码 | preview 嵌入首选项 | preview_all 嵌入全部内容
+    color_scheme: MacRoseo
+    comment_font_face: "Microsoft Yahei"
+    comment_font_point: 11
+    display_tray_icon: false
+    font_face: "Microsoft Yahei"
+    font_point: 12
+    label_font_face: "Microsoft Yahei"
+    label_font_point: 9  # 标签字体大小
+    label_format: "%s"  # 标签格式
+
+    layout: {
+      align_type: bottom,  # 候选项、标号、备注的对齐方式：bottom底部对齐，top顶部对齐，center居中对齐
+      border_width: 1,
+      candidate_spacing: 17,  # 候选项之间的距离
+      corner_radius: 8,  # 面板圆角
+      round_corner: 5,  # 候选框圆角
+      enhanced_position: false,  # 不知
+      hilite_padding_x: 7,  # 候选项横向内边距
+      hilite_padding_y: 4,  # 候选项纵向内边距
+      hilite_spacing: 1,  # 候选项与标号之间的距离
+      margin_x: 11,  # 候选的横向外边距
+      # margin_x: -1,  # 隐藏候选框
+      margin_y: 8,  # 候选的纵向外边距
+      shadow_offset_x: 2,
+      shadow_offset_y: 2,
+      shadow_radius: 3,
+      # spacing: 30,  # 拼音与候选项之间的距离
+    }
+
+
+  preset_color_schemes:
+    MacRoseo:
+      author: ZhangSean
+      back_color: 0xFFFFFF
+      border_color: 0x33000000
+      candidate_back_color: 0xFFFFFF
+      candidate_border_color: 0x00000000
+      candidate_shadow_color: 0x00000000
+      candidate_text_color: 0x000000
+      comment_text_color: 0x000000
+      creat_time: "2021-07-26"
+      hilited_back_color: 0xEDEDF9
+      hilited_candidate_back_color: 0xFF7E26
+      hilited_candidate_border_color: 0x004F11FA
+      hilited_candidate_shadow_color: 0x004F11FA
+      hilited_candidate_text_color: 0xffffff
+      hilited_label_color: 0xffffff
+      hilited_shadow_color: 0xcccccc
+      hilited_text_color: 0x000000
+      label_color: 0x888888
+      name: "Mac 仿原生"
+      nextpage_color: 0x000000
+      prevpage_color: 0x000000
+      shadow_color: 0x44000000
+      text_color: 0x000000
+      
+    blackpink:
+      author: swwrww
+      back_color: 0x1e1e1e
+      border_color: 0xff303030
+      candidate_text_color: 0xaaa6f0
+      comment_text_color: 0xaaa6f0
+      hilited_back_color: 0xaaa6f0
+      hilited_candidate_back_color: 0xA996F1
+      hilited_candidate_text_color: 0x1e1e1e
+      hilited_comment_text_color: 0x1e1e1e
+      hilited_label_color: 0x1e1e1e
+      hilited_mark_color: 0x1e1e1e
+      hilited_text_color: 0xFFFFFF
+      label_color: 0xaaa6f0
+      name: "秃秃推荐／脏粉"
+      text_color: 0xFFFFFF
+    
+    easy_dark:
+      author: "木易"
+      back_color: 0x36261F
+      candidate_text_color: 0xDBDBDB
+      comment_text_color: 0xA8A8A8
+      hilited_back_color: 0x471885
+      hilited_candidate_back_color: 0x63453A
+      hilited_candidate_label_color: 0xFFFFFF
+      hilited_candidate_text_color: 0xDBDBDB
+      hilited_comment_text_color: 0xA8A8A8
+      hilited_mark_color: 0xD6D6D6
+      hilited_text_color: 0xD6D6D6
+      label_color: 0xDBDBDB
+      name: "秃秃推荐／蓝黑"
+      text_color: 0xD6D6D6
+    
+    eucalyptus:
+      author: "ID;Peace B"
+      back_color: 0xFFFFFF
+      border_color: 0xC9B881
+      candidate_text_color: 0x8C7662
+      comment_text_color: 0x8C7662
+      hilited_back_color: 0xD5E2F2
+      hilited_candidate_back_color: 0xD1A78E
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_comment_text_color: 0xFFFFFF
+      hilited_mark_color: 0xFFFFFF
+      name: "秃秃推荐／尤加利"
+      text_color: 0x2B1007
+    
+    gruvbox_light:
+      author: Q
+      back_color: 0xc7f1fb
+      border_color: 0xb2dbeb
+      candidate_text_color: 0x888545
+      comment_text_color: 0xa2577f
+      hilited_back_color: 0xb2dbeb
+      hilited_candidate_text_color: 0x000000
+      hilited_label_color: 0x1a9798
+      hilited_mark_color: 0x2A8585
+      hilited_text_color: 0x1d24cc
+      label_color: 0x0e5dd6
+      name: "秃秃推荐／Gruvbox Light"
+      text_color: 0x6a9d68
+    
+    macos_light:
+      author: "一方"
+      back_color: 0xFFFFFF
+      border_color: 0xFFFFFF
+      candidate_shadow_color: 0x00000000
+      candidate_text_color: 0x3C3C3C
+      comment_text_color: 0x999999
+      hilited_back_color: 0xD75A00
+      hilited_candidate_label_color: 0xFFFFFF
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_comment_text_color: 0x999999
+      hilited_text_color: 0x999999
+      label_color: 0x999999
+      name: "Mac仿原生亮色/macos_light"
+      text_color: 0x424242
+    
+    perianth:
+      author: "毛毛虫"
+      back_color: 0x2802FA
+      border_color: 0xF34FFF3
+      candidate_text_color: 0xF9A6FF
+      comment_text_color: 0xF9A6FF
+      hilited_back_color: 0x5E9341
+      hilited_candidate_back_color: 0x5E9341
+      hilited_candidate_text_color: 0x42E6FF
+      hilited_comment_text_color: 0x82D2FF
+      hilited_mark_color: 0x42E6FF
+      hilited_text_color: 0x82D2FF
+      name: "肛师专用／东北大花被"
+      text_color: 0xF9A6FF
+    
+    pink:
+      author: swwrww
+      back_color: 0x877A73
+      border_color: 0x877A73
+      candidate_text_color: 0xBABABA
+      comment_text_color: 0xFFFFFF
+      hilited_back_color: 0xA996F1
+      hilited_candidate_back_color: 0xA996F1
+      hilited_candidate_text_color: 0xffffff
+      hilited_mark_color: 0xf9f9f9
+      hilited_text_color: 0xFFFFFF
+      label_color: 0xFFFFFF
+      name: "萌猫粉"
+      text_color: 0xFFFFFF
+    
+    pornhub:
+      author: swwrww
+      back_color: 0x232323
+      border_color: 0x00000000
+      candidate_back_color: 0x00000000
+      candidate_shadow_color: 0x000083FF
+      candidate_text_color: 0xffffff
+      comment_text_color: 0xffffff
+      hilited_back_color: 0x00000000
+      hilited_candidate_back_color: 0x0083FF
+      hilited_candidate_shadow_color: 0x00000000
+      hilited_candidate_text_color: 0x000000
+      hilited_comment_text_color: 0x000000
+      hilited_label_color: 0x000000
+      hilited_mark_color: 0xffffff
+      hilited_shadow_color: 0x000083FF
+      hilited_text_color: 0xffffff
+      label_color: 0xFFFFFF
+      name: "P站风／Pornhub"
+      shadow_color: 0x00000000
+      text_color: 0x0083FF
+    
+    rose_red:
+      author: "木易"
+      back_color: 0xF4F4F6
+      border_color: 0xffffff
+      candidate_text_color: 0x383838
+      comment_text_color: 0x87807B
+      hilited_back_color: 0xEFEFF4
+      hilited_candidate_back_color: 0xEDEDF9
+      hilited_candidate_label_color: 0x884F11FA
+      hilited_candidate_text_color: 0x4F11FA
+      hilited_comment_text_color: 0xF19C38
+      hilited_mark_color: 0xBCA9E8
+      hilited_text_color: 0x8E8E93
+      label_color: 0xaaaaaa
+      name: "秃秃推荐 / 玫红"
+      preedit_back_color: 0x364572
+    
+    so_young_qmod_01:
+      author: Q
+      back_color: 0xe3f6fd
+      border_color: 0xc5c8cc
+      candidate_back_color: 0xe3f6fd
+      candidate_text_color: 0x736b55
+      comment_text_color: 0x9377b9
+      hilited_back_color: 0x736b55
+      hilited_candidate_back_color: 0x736b55
+      hilited_candidate_text_color: 0xd5e8ee
+      hilited_comment_text_color: 0xd5e8ee
+      hilited_mark_color: 0xffffff
+      hilited_text_color: 0xd5e8ee
+      key_symbol_color: 0x339977
+      label_color: 0x919183
+      name: "秃秃推荐／致青春·Q改"
+      preview_back_color: 0x6b55d073
+      preview_text_color: 0xd5e8ee
+      text_color: 0x808070
+    
+    win10black:
+      back_color: 0x000000
+      border_color: 0x347440
+      candidate_text_color: 0xffffff
+      comment_text_color: 0x666666
+      hilited_back_color: 0x347440
+      hilited_candidate_back_color: 0x347440
+      hilited_candidate_text_color: 0xffffff
+      hilited_comment_text_color: 0xa9a9a9
+      hilited_label_color: 0xa9a9a9
+      hilited_mark_color: 0xa9a9a9
+      hilited_text_color: 0xffffff
+      label_color: 0xa9a9a9
+      name: Win10Black
+      shadow_color: 0x00000000
+      text_color: 0xffffff
+    
+    win10blue:
+      back_color: 0xffffff
+      border_color: 0xd77800
+      candidate_back_color: 0x00ffffff
+      candidate_shadow_color: 0x00ffffff
+      candidate_text_color: 0x000000
+      comment_text_color: 0x222222
+      hilited_back_color: 0xd77800
+      hilited_candidate_back_color: 0xd77800
+      hilited_candidate_shadow_color: 0x00d77800
+      hilited_candidate_text_color: 0xffffff
+      hilited_comment_text_color: 0xffffff
+      hilited_label_color: 0xffffff
+      hilited_mark_color: 0xffffff
+      hilited_shadow_color: 0x00d77800
+      hilited_text_color: 0xffffff
+      label_color: 0x838383
+      name: Win10Blue
+      shadow_color: 0x20000000
+      text_color: 0x000000
+    
+    win10gray:
+      back_color: 0xf4f4f4
+      border_color: 0xcccccc
+      candidate_text_color: 0x000000
+      comment_text_color: 0x666666
+      hilited_back_color: 0xffffff
+      hilited_candidate_back_color: 0xcccccc
+      hilited_candidate_text_color: 0x000000
+      hilited_comment_text_color: 0x555555
+      hilited_label_color: 0x444444
+      hilited_mark_color: 0x444444
+      hilited_text_color: 0x000000
+      label_color: 0x888888
+      name: Win10Gray
+      shadow_color: 0x20000000
+      text_color: 0x000000
+    
+    win11dark:
+      back_color: 0x303030
+      border_color: 0xc202020
+      candidate_back_color: 0x00303030
+      candidate_text_color: 0xc9c9c9
+      comment_text_color: 0xc9c9c9
+      hilited_back_color: 0x202020
+      hilited_candidate_back_color: 0x202020
+      hilited_candidate_text_color: 0xf9f9f9
+      hilited_comment_text_color: 0xf9f9f9
+      hilited_label_color: 0xf9f9f9
+      hilited_mark_color: 0xf9f9f9
+      hilited_text_color: 0xf9f9f9
+      label_color: 0xc9c9c9
+      name: "秃秃推荐／Win11Dark"
+      shadow_color: 0x16000000
+      text_color: 0xc9c9c9
+    
+    win11light:
+      back_color: 0xfff9f9f9
+      border_color: 0x10f0f0f0
+      candidate_back_color: 0xfff9f9f9
+      candidate_text_color: 0x000000
+      comment_text_color: 0x666666
+      hilited_back_color: 0xf0f0f0
+      hilited_candidate_back_color: 0xf0f0f0
+      hilited_candidate_text_color: 0x0A0A0A
+      hilited_comment_text_color: 0x1a1a1a
+      hilited_label_color: 0x1a1a1a
+      hilited_mark_color: 0x303030
+      hilited_text_color: 0x1a1a1a
+      label_color: 0x1a1a1a
+      name: "秃秃推荐／Win11Light"
+      text_color: 0x1a1a1a

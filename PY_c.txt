@@ -1,0 +1,613 @@
+# Rime table
+#@/db_name	PY_c
+#@/db_type	tabledb
+#@/rime_version	1.13.1
+#@/tick	354
+啊	a	5
+吧	ba	2
+把	ba	4
+百	bai	1
+百词斩	bai ci zhan	1
+版本	ban ben	2
+帮	bang	1
+帮忙	bang mang	1
+帮忙分析仪下	bang mang fen xi yi xia	1
+帮我	bang wo	3
+帮我检查一下	bang wo jian cha yi xia	1
+帮我先	bang wo xian	1
+保证	bao zheng	2
+背	bei	2
+被	bei	4
+备注	bei zhu	2
+本地	ben di	1
+本身	ben shen	4
+闭包	bi bao	1
+闭包环境	bi bao huan jing	1
+比较合适	bi jiao he shi	2
+比如	bi ru	2
+必要	bi yao	2
+边	bian	2
+变化	bian hua	7
+编剧	bian ju	1
+边距	bian ju	2
+遍历	bian li	3
+变量	bian liang	4
+表格	biao ge	1
+表格做出来	biao ge zuo chu lai	1
+标号	biao hao	4
+标签	biao qian	2
+别让我	bie rang wo	1
+别让我离开你	bie rang wo li kai ni	1
+并将	bing jiang	2
+并没有	bing mei you	2
+并在	bing zai	2
+不	bu	1
+不错	bu cuo	3
+补丁集	bu ding ji	2
+不对	bu dui	1
+不够	bu gou	1
+不会	bu hui	5
+不会重复	bu hui chong fu	1
+不会弹出	bu hui tan chu	3
+不理解	bu li jie	2
+不能	bu neng	2
+不宜	bu yi	1
+不宜来与	bu yi lai yu	1
+不知	bu zhi	2
+布置	bu zhi	2
+才	cai	1
+才不会	cai bu hui	2
+猜猜	cai cai	1
+猜猜这是什么文件	cai cai zhe shi shen me wen jian	1
+才会弹出	cai hui tan chu	3
+操作	cao zuo	2
+唱的	chang de	1
+成	cheng	2
+持有	chi you	2
+持有者	chi you zhe	2
+重	chong	1
+重复	chong fu	5
+重收集	chong shou ji	1
+重新	chong xin	10
+出	chu	1
+触发	chu fa	15
+除了你	chu le ni	1
+除了你我不能感到一丝丝情意	chu le ni wo bu neng gan dao yi si si qing yi	1
+处理	chu li	2
+创建一个	chuang jian yi ge	1
+词	ci	1
+从	cong	3
+从这些	cong zhe xie	1
+从这些个	cong zhe xie ge	1
+存储	cun chu	6
+存放	cun fang	2
+存在	cun zai	2
+打	da	1
+打只可以分成	da zhi ke yi fen cheng	1
+带	dai	1
+代码	dai ma	1
+但是	dan shi	2
+当量	dang liang	6
+当前	dang qian	7
+当我们	dang wo men	4
+当一个	dang yi ge	1
+当一个属性	dang yi ge shu xing	1
+到	dao	6
+到本	dao ben	1
+到本带	dao ben dai	1
+到本地	dao ben di	1
+到此为止	dao ci wei zhi	3
+到此为止各有各的权利依然相互凌迟	dao ci wei zhi ge you ge de quan li yi ran xiang hu ling chi	1
+的	de	77
+的方案	de fang an	1
+的结构	de jie gou	1
+的时候	de shi hou	8
+的实现	de shi xian	1
+的使用	de shi yong	2
+的书	de shu	1
+得我	de wo	1
+第二次	di er ci	2
+地方	di fang	2
+电影	dian ying	1
+掉	diao	2
+调用	diao yong	8
+调用栈	diao yong zhan	2
+定	ding	1
+定位	ding wei	2
+订阅	ding yue	2
+定制	ding zhi	3
+动人	dong ren	1
+东西	dong xi	6
+都	dou	1
+都帮	dou bang	1
+都帮我家上	dou bang wo jia shang	1
+豆包	dou bao	6
+都不再是	dou bu zai shi	1
+都不再是用	dou bu zai shi yong	1
+都是	dou shi	2
+都依赖于	dou yi lai yu	1
+读到	du dao	2
+对	dui	6
+对我进行	dui wo jin xing	2
+对象	dui xiang	16
+对应	dui ying	11
+对应的	dui ying de	3
+对应属性	dui ying shu xing	3
+对于	dui yu	2
+多个	duo ge	2
+而	er	2
+而在	er zai	2
+而在这个	er zai zhe ge	1
+发	fa	1
+发生	fa sheng	4
+饭	fan	1
+反推	fan tui	1
+反推出	fan tui chu	1
+饭推出	fan tui chu	1
+反向	fan xiang	2
+反响	fan xiang	1
+反响记录	fan xiang ji lu	1
+方案	fang an	6
+放松	fang song	1
+分成	fen cheng	1
+分析仪	fen xi yi	1
+负责	fu ze	1
+负责用	fu ze yong	1
+副作用	fu zuo yong	16
+感到	gan dao	1
+感觉	gan jue	4
+个	ge	1
+格式	ge shi	2
+各有各的	ge you ge de	1
+各自	ge zi	2
+个字符	ge zi fu	1
+给	gei	1
+给出	gei chu	1
+给我	gei wo	1
+给一个	gei yi ge	1
+更高级	geng gao ji	1
+更高级啊	geng gao ji a	1
+更深层	geng shen ceng	2
+更新	geng xin	2
+工具	gong ju	2
+关键	guan jian	2
+关于	guan yu	2
+过程	guo cheng	4
+过程中	guo cheng zhong	2
+还是	hai shi	1
+还有	hai you	6
+函数	han shu	6
+好	hao	2
+毫	hao	3
+好好照顾他	hao hao zhao gu ta	2
+和	he	8
+合适	he shi	2
+核实	he shi	2
+很多	hen duo	2
+很好	hen hao	1
+横向	heng xiang	5
+横向外编剧	heng xiang wai bian ju	1
+候选	hou xuan	15
+候选不会	hou xuan bu hui	3
+候选项	hou xuan xiang	6
+候选圆角	hou xuan yuan jiao	1
+花了	hua le	1
+花了一天时间	hua le yi tian shi jian	1
+环境	huan jing	1
+会	hui	2
+会导致	hui dao zhi	2
+回顾一下	hui gu yi xia	2
+回收	hui shou	7
+回收机制	hui shou ji zhi	1
+会弹出	hui tan chu	2
+活动	huo dong	2
+或者	huo zhe	4
+即	ji	2
+及	ji	3
+即便	ji bian	1
+即便是我们	ji bian shi wo men	1
+记得	ji de	2
+极点	ji dian	2
+几点上班	ji dian shang ban	2
+极点五笔	ji dian wu bi	4
+集合	ji he	4
+激活	ji huo	4
+记录	ji lu	4
+记录当前	ji lu dang qian	1
+奇数	ji shu	1
+奇数个字符	ji shu ge zi fu	1
+机制	ji zhi	5
+检查一下	jian cha yi xia	3
+将	jiang	2
+将其	jiang qi	1
+结构	jie gou	3
+结果就	jie guo jiu	1
+结果就是	jie guo jiu shi	1
+借助	jie zhu	2
+进过	jin guo	2
+进行	jin xing	2
+经过	jing guo	4
+就	jiu	4
+就把	jiu ba	2
+就不会	jiu bu hui	2
+就会	jiu hui	2
+就将其	jiu jiang qi	1
+就是	jiu shi	6
+就是一张	jiu shi yi zhang	1
+就这个	jiu zhe ge	1
+就这个项目	jiu zhe ge xiang mu	1
+局	ju	1
+局部	ju bu	2
+举个例子	ju ge li zi	2
+具体	ju ti	1
+具体的	ju ti de	1
+具体的样式的	ju ti de yang shi de	1
+具体字段	ju ti zi duan	1
+觉得	jue de	1
+开始	kai shi	2
+看到的	kan dao de	2
+看是	kan shi	1
+可以	ke yi	3
+可以吧	ke yi ba	2
+可以使用的	ke yi shi yong de	1
+扣锁	kou suo	1
+块儿	kuai er	1
+垃圾	la ji	3
+垃圾清除	la ji qing chu	1
+来讲	lai jiang	2
+来实现	lai shi xian	2
+来与	lai yu	1
+了	le	9
+离	li	2
+理解	li jie	2
+离开你	li kai ni	1
+里面	li mian	16
+例子	li zi	1
+凌迟	ling chi	1
+漏洞	lou dong	2
+吗	ma	1
+毛玻璃	mao bo li	2
+貌似	mao si	2
+每个	mei ge	4
+没明白	mei ming bai	2
+每台	mei tai	2
+没有	mei you	7
+迷你	mi ni	2
+面	mian	3
+面板	mian ban	1
+面板圆角	mian ban yuan jiao	1
+面试	mian shi	3
+面试官	mian shi guan	2
+莫	mo	1
+模块	mo kuai	4
+模拟	mo ni	3
+莫诺	mo nuo	1
+某一个	mou yi ge	4
+目录	mu lu	1
+那	na	2
+那么	na me	2
+那我们	na wo men	2
+那些	na xie	1
+那些最深请得电影情节	na xie zui shen qing de dian ying qing jie	1
+那一	na yi	1
+那一块儿	na yi kuai er	1
+呢	ne	2
+内变	nei bian	3
+内变局	nei bian ju	1
+内存	nei cun	4
+能不能	neng bu neng	3
+能不能从代码	neng bu neng cong dai ma	1
+能够实时	neng gou shi shi	1
+能够实时预览皮肤	neng gou shi shi yu lan pi fu	1
+你	ni	7
+你别	ni bie	1
+你别皱眉	ni bie zhou mei	1
+你的	ni de	2
+你给出	ni gei chu	1
+你说的	ni shuo de	1
+你写	ni xie	1
+你写给我	ni xie gei wo	1
+你需要	ni xu yao	1
+你自己	ni zi ji	1
+诺	nuo	1
+配色	pei se	1
+配色自定义方案	pei se zi ding yi fang an	1
+配置	pei zhi	12
+配置了以下	pei zhi le yi xia	1
+皮肤	pi fu	15
+皮肤定之	pi fu ding zhi	1
+皮肤设计	pi fu she ji	1
+拼音	pin yin	3
+拼音输入法	pin yin shu ru fa	2
+拼音与	pin yin yu	1
+期房	qi fang	2
+其实	qi shi	1
+其实还是	qi shi hai shi	1
+其实你	qi shi ni	1
+其他	qi ta	2
+其他地方	qi ta di fang	2
+前面	qian mian	2
+签名	qian ming	2
+嵌套	qian tao	2
+清除	qing chu	7
+请得	qing de	1
+情节	qing jie	1
+清理	qing li	4
+情意	qing yi	1
+求求你	qiu qiu ni	1
+去	qu	4
+去遍历	qu bian li	1
+权利	quan li	1
+却不知道	que bu zhi dao	1
+确实	que shi	5
+确实不错现在	que shi bu cuo xian zai	1
+然后	ran hou	2
+让	rang	2
+让她	rang ta	1
+让她觉得放松琐忆	rang ta jue de fang song suo yi	1
+让我们	rang wo men	1
+让我们看是	rang wo men kan shi	1
+任何	ren he	2
+任何变化	ren he bian hua	1
+任何候选	ren he hou xuan	1
+日么	ri me	3
+如法	ru fa	1
+如果	ru guo	10
+如何	ru he	2
+润	run	1
+弱	ruo	2
+若	ruo	1
+若引用	ruo yin yong	1
+三层	san ceng	2
+删除	shan chu	2
+上	shang	3
+设计	she ji	3
+设置	she zhi	3
+设置成	she zhi cheng	1
+设置成当前	she zhi cheng dang qian	1
+设置到	she zhi dao	1
+身上	shen shang	2
+生成	sheng cheng	1
+生效	sheng xiao	2
+式	shi	4
+是	shi	25
+事后	shi hou	4
+时候	shi hou	10
+实际上	shi ji shang	2
+是什么	shi shen me	4
+是什么意思	shi shen me yi si	4
+是我们	shi wo men	1
+实现	shi xian	3
+实现目标	shi xian mu biao	2
+是一个	shi yi ge	3
+是因为	shi yin wei	1
+是因为配置写得不对	shi yin wei pei zhi xie de bu dui	1
+使用	shi yong	6
+使用的	shi yong de	1
+是在	shi zai	2
+是最好的	shi zui hao de	1
+收集	shou ji	11
+数据	shu ju	2
+树立	shu li	2
+梳理	shu li	2
+输入	shu ru	6
+输入法	shu ru fa	19
+输入发样式	shu ru fa yang shi	1
+属性	shu xing	12
+数组	shu zu	2
+死循环	si xun huan	2
+所以	suo yi	8
+琐忆	suo yi	3
+所以说	suo yi shuo	1
+所以说吗	suo yi shuo ma	1
+所以我	suo yi wo	1
+所以我求求你	suo yi wo qiu qiu ni	1
+所有	suo you	4
+它	ta	4
+它被	ta bei	2
+他对	ta dui	2
+它对应的	ta dui ying de	1
+他就	ta jiu	1
+他就不会	ta jiu bu hui	1
+他们	ta men	4
+它们	ta men	2
+他也	ta ye	1
+他也指挥	ta ye zhi hui	1
+添加	tian jia	2
+通过	tong guo	2
+头皮发麻	tou pi fa ma	2
+图	tu	2
+吐啊	tu a	1
+推出	tui chu	1
+外	wai	3
+外观	wai guan	4
+外观定制	wai guan ding zhi	1
+外观文档	wai guan wen dang	1
+为	wei	1
+为什么	wei shen me	6
+为我	wei wo	1
+为我当前这个目录生成一个	wei wo dang qian zhe ge mu lu sheng cheng yi ge	1
+微信	wei xin	1
+微信输入法	wei xin shu ru fa	1
+未知	wei zhi	4
+为制作用	wei zhi zuo yong	1
+问	wen	2
+文档	wen dang	1
+问得我	wen de wo	1
+文件	wen jian	5
+问题	wen ti	6
+我	wo	7
+我不能	wo bu neng	1
+我唱的不够动人	wo chang de bu gou dong ren	1
+我的	wo de	4
+我还	wo hai	2
+我还以为	wo hai yi wei	2
+我还有	wo hai you	1
+我还有就	wo hai you jiu	1
+我家	wo jia	1
+我就去	wo jiu qu	1
+我觉得	wo jue de	2
+我们	wo men	9
+我们就	wo men jiu	1
+我们就是最好的例子	wo men jiu shi zui hao de li zi	1
+我们面	wo men mian	1
+我能	wo neng	2
+我实在	wo shi zai	2
+我输入	wo shu ru	1
+我现在	wo xian zai	1
+我现在的书如法	wo xian zai de shu ru fa	1
+我想说	wo xiang shuo	1
+我想说其实你很好你自己却不知道	wo xiang shuo qi shi ni hen hao ni zi ji que bu zhi dao	1
+我写了	wo xie le	1
+我写了一个	wo xie le yi ge	1
+我也	wo ye	2
+我愿意	wo yuan yi	2
+我再	wo zai	6
+我再输入	wo zai shu ru	3
+我再输入一个	wo zai shu ru yi ge	1
+五笔	wu bi	2
+雾凇	wu song	2
+喜欢的	xi huan de	1
+喜欢的我就去	xi huan de wo jiu qu	1
+系统	xi tong	1
+下	xia	1
+先	xian	5
+现	xian	2
+先创建一个	xian chuang jian yi ge	1
+现在	xian zai	5
+先在你是一个	xian zai ni shi yi ge	1
+想	xiang	2
+相互	xiang hu	1
+项目	xiang mu	3
+响应	xiang ying	2
+响应式	xiang ying shi	9
+响应式系统	xiang ying shi xi tong	3
+小狼	xiao lang	1
+小狼毫	xiao lang hao	3
+小狼毫输入法	xiao lang hao shu ru fa	2
+写得	xie de	1
+信息	xin xi	2
+修复	xiu fu	1
+修改	xiu gai	2
+需要	xu yao	5
+研究一下	yan jiu yi xia	2
+样式	yang shi	1
+样式的	yang shi de	1
+要	yao	2
+也不要	ye bu yao	1
+也不要有节扣锁以	ye bu yao you jie kou suo yi	1
+也就	ye jiu	4
+也可	ye ke	1
+也有	ye you	2
+以	yi	1
+一次	yi ci	2
+一个	yi ge	14
+一刻	yi ke	2
+以来	yi lai	10
+依赖	yi lai	32
+依赖于	yi lai yu	3
+姨妈	yi ma	1
+依然	yi ran	1
+意思	yi si	2
+一丝丝	yi si si	1
+一天时间	yi tian shi jian	1
+一下	yi xia	6
+以下	yi xia	1
+一些	yi xie	4
+因为	yin wei	10
+印象	yin xiang	2
+引用	yin yong	3
+应该是	ying gai shi	2
+影响	ying xiang	2
+用	yong	3
+用来	yong lai	6
+有	you	7
+有的	you de	1
+有的方案有预览有的方案没有预览	you de fang an you yu lan you de fang an mei you yu lan	1
+有点	you dian	2
+有节	you jie	1
+有没有	you mei you	3
+有没有什么	you mei you shen me	2
+有没有这个问题	you mei you zhe ge wen ti	1
+有哪些	you na xie	3
+有哪些字段	you na xie zi duan	1
+有一个	you yi ge	4
+由于	you yu	2
+优质	you zhi	2
+有值	you zhi	1
+有资格	you zi ge	2
+与	yu	5
+于	yu	2
+预防	yu fang	2
+预览	yu lan	4
+预览真的就是一张吐啊	yu lan zhen de jiu shi yi zhang tu a	1
+圆角	yuan jiao	2
+原来	yuan lai	2
+源码	yuan ma	2
+原始	yuan shi	2
+元素	yuan su	2
+原因	yuan yin	2
+在	zai	18
+再次	zai ci	2
+在你	zai ni	1
+在这个	zai zhe ge	1
+在做	zai zuo	2
+早上	zao shang	2
+怎么	zen me	1
+怎么修复	zen me xiu fu	1
+增强	zeng qiang	2
+斩	zhan	1
+着	zhe	8
+这	zhe	4
+这个	zhe ge	49
+这个问题	zhe ge wen ti	1
+这就是	zhe jiu shi	2
+这里	zhe li	2
+这里面	zhe li mian	2
+这么多	zhe me duo	2
+着你	zhe ni	1
+着你你说的	zhe ni ni shuo de	1
+这是什么	zhe shi shen me	1
+这样	zhe yang	3
+这样也可姨妈	zhe yang ye ke yi ma	1
+这一段	zhe yi duan	1
+这一段模拟面试	zhe yi duan mo ni mian shi	1
+真的	zhen de	1
+真能	zhen neng	1
+真能问	zhen neng wen	1
+真是	zhen shi	2
+之	zhi	1
+值	zhi	9
+只会	zhi hui	2
+指挥	zhi hui	1
+直接	zhi jie	4
+只可以	zhi ke yi	1
+制品	zhi pin	2
+之前	zhi qian	2
+只是	zhi shi	2
+执行	zhi xing	10
+执行补丁集专员	zhi xing bu ding ji zhuan yuan	1
+执行补丁集装润	zhi xing bu ding ji zhuang run	1
+之兄	zhi xiong	2
+只在	zhi zai	2
+制作	zhi zuo	1
+中	zhong	16
+皱眉	zhou mei	1
+转换成	zhuan huan cheng	2
+专员	zhuan yuan	1
+装	zhuang	1
+自	zi	1
+自触发	zi chu fa	1
+自定义	zi ding yi	1
+字段	zi duan	2
+自己	zi ji	4
+总结	zong jie	2
+纵向	zong xiang	2
+组织	zu zhi	2
+阻止	zu zhi	2
+最深	zui shen	1
+做出来	zuo chu lai	1
+做以下	zuo yi xia	2
+作用	zuo yong	4
+作用于	zuo yong yu	2
+作用域	zuo yong yu	2

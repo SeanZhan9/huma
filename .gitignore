@@ -1,0 +1,25 @@
+# Rime build artifacts
+build/
+
+# User dictionary databases (generated)
+*.userdb/
+*.userdb.kct
+*.userdb.txt
+
+# Runtime/user state (machine-specific)
+installation.yaml
+user.yaml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
