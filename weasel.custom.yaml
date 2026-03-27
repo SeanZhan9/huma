@@ -22,6 +22,7 @@ patch:
     label_font_face: "Microsoft Yahei"
     label_font_point: 9  # 标签字体大小
     label_format: "%s"  # 标签格式
+    # vertical_auto_reverse: true  # 竖排候选框超时长自动倒序
 
     layout: {
       align_type: bottom,  # 候选项、标号、备注的对齐方式：bottom底部对齐，top顶部对齐，center居中对齐
