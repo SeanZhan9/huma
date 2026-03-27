@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+# 你要推送的远端名
+remote="origin"
+
+# 当前分支（避免 detached HEAD）
+branch="$(git rev-parse --abbrev-ref HEAD)"
+if [[ "$branch" == "HEAD" ]]; then
+  echo "[post-commit] Detached HEAD, skip push."
+  exit 0
+fi
+
+# 自动强推当前分支到远端同名分支
+echo "[post-commit] Pushing $branch to $remote with --force..."
+git push -u "$remote" "$branch" --force
