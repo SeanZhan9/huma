@@ -313,6 +313,9 @@ menu:
   #menu/alternative_select_labels: [ ⓐ,ⓑ,ⓒ,ⓓ,ⓔ,ⓕ,ⓖ,ⓗ,ⓘ,ⓙ ]
 
 style:
+  horizontal: false # 默认false竖排显示,改为true可横排显示
+  inline_preedit: false # 嵌入编码模式，改为true可开启
+  # preedit_type: composition # 有3个选项可设：input 嵌入输入码 | composition 嵌入编码 | preview 嵌入首选项
   # font_face: "Consolas, Segoe UI Emoji, Noto Color Emoji, TumanPUA, LXGW WenKai GB Screen R, SimSun, SimSun-ExtB, SimSun-ExtG, TH-Tshyn-P0, TH-Tshyn-P1, TH-Tshyn-P2, TH-Tshyn-P16, FSung-1, FSung-2, FSung-3, FSung-F, FSung-X"
   # font_point: 15 # 字号大小
   # label_font_face: "Consolas, Segoe UI Emoji, Noto Color Emoji, TumanPUA, LXGW WenKai GB Screen R, SimSun, SimSun-ExtB, SimSun-ExtG, TH-Tshyn-P0, TH-Tshyn-P1, TH-Tshyn-P2, TH-Tshyn-P16, FSung-1, FSung-2, FSung-3, FSung-F, FSung-X"

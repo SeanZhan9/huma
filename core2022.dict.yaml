@@ -1,4 +1,4 @@
-###表內有的字纔會輸出，可自己添加，格式如下
+# 常用字集，可自己调整
 name: core2022
 version: "2026.03.01"
 sort: original
@@ -8445,7 +8445,6 @@ use_preset_vocabulary: false
 罇	t
 罉	t
 罍	t
-罒	t
 罥	t
 罦	t
 罳	t
@@ -9771,3 +9770,4 @@ use_preset_vocabulary: false
 嶨	t
 覅	t
 坖	t
+奼	t
