@@ -40,6 +40,24 @@ patch:
     }
 
   preset_color_schemes:
+    wechat_light:
+      author: "ZhangSean"
+      back_color: 0xffffffff
+      border_color: 0xffeeeeee
+      candidate_back_color: 0xffffffff  # 候选背景颜色
+      candidate_text_color: 0x000000
+      comment_text_color: 0x666666
+      hilited_back_color: 0xDDDDDD
+      hilited_candidate_back_color: 0x76B100  # 高亮候选背景颜色
+      hilited_candidate_text_color: 0xffffffff  # 高亮候选文本颜色
+      hilited_comment_text_color: 0xffffffff  # 高亮选项文本颜色
+      hilited_label_color: 0xffffffff  # 高亮标签颜色
+      hilited_mark_color: 0x00303030
+      hilited_text_color: 0x000000
+      label_color: 0x888888
+      name: "WeChat Light"
+      shadow_color: 0x44000000
+      text_color: 0x1a1a1a  # 选项文本颜色
     blackpink:
       author: swwrww
       back_color: 0x1e1e1e
